@@ -1,0 +1,42 @@
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+.form{
+    align-items: center;
+    background-color: black;
+    color:white;
+    display: grid;
+    margin: 30px;
+    padding: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.title{
+    text-align: center;
+}
+.dokmeh{
+    text-align: center;
+    margin-top:20px ;
+    
+}
+.send{
+    padding: 5px 20px 5px 20px;
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+.reset{
+    padding: 5px 20px 5px 20px;
+    border-radius: 20px;
+    background-color: yellow;
+    color: black;
+    font-size: 20px;
+}
+input{
+    border-radius: 20px;
+    font-size: x-large;
+}
+.message{
+    padding:35px
+}
